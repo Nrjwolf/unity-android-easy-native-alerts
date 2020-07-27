@@ -43,11 +43,10 @@ public class EasyNativeAlertsExample : MonoBehaviour
 }
 ```
 
-![](https://github.com/Nrjwolf/unity-android-easy-native-alerts/blob/master/.github/images/screenshot_alert.jpg "Alert") </br>
-![](https://github.com/Nrjwolf/unity-android-easy-native-alerts/blob/master/.github/images/screenshot_toast.jpg "Toast") </br>
+![](https://github.com/Nrjwolf/unity-android-easy-native-alerts/blob/master/.github/images/screenshot.png "Example") </br>
 
 For IOS check another my plugin https://github.com/Nrjwolf/unity-ios-easy-native-alert <br>
-Do not forgot to ⭐️ it :)
+Do not forgot to ⭐️ it.
 
 ---
 
