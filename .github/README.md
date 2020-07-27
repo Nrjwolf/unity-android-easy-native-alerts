@@ -1,4 +1,4 @@
-# Unity Android Ease Alerts
+# Unity Android Easy Alerts
 
 ### Installation
 
