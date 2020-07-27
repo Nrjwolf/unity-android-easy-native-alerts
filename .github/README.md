@@ -1,7 +1,5 @@
 # Unity Android Ease Alerts
 
-<b>Forum Thread</b> https://forum.unity.com/threads/auto-attach-components-via-attributes.928098/
-
 ### Installation
 
 Add this as a package to your project by adding the below as an entry to the dependencies in the `/Packages/manifest.json` file:
@@ -44,6 +42,12 @@ public class EasyNativeAlertsExample : MonoBehaviour
     }
 }
 ```
+
+![](https://github.com/Nrjwolf/unity-android-easy-native-alerts/blob/master/.github/images/screenshot_alert.jpg "Alert") </br>
+![](https://github.com/Nrjwolf/unity-android-easy-native-alerts/blob/master/.github/images/screenshot_toast.jpg "Toast") </br>
+
+For IOS check another my plugin https://github.com/Nrjwolf/unity-ios-easy-native-alert <br>
+Do not forgot to ⭐️ it :)
 
 ---
 
