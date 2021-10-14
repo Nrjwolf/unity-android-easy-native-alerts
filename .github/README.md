@@ -50,7 +50,7 @@ Do not forgot to ⭐️ it.
 
 ---
 
->Telegram : https://t.me/nrjwolf_live <br>
+>Telegram : https://t.me/nrjwolf_games <br>
 >Discord : https://discord.gg/jwPVsat <br>
 >Reddit : https://www.reddit.com/r/Nrjwolf/ <br>
 >Twitter : https://twitter.com/nrjwolf <br>
