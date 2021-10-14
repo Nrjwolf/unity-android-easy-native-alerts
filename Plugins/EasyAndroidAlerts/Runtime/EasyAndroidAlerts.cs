@@ -66,10 +66,14 @@ namespace Nrjwolf.Tools.AndroidEasyAlerts
 
         internal static AlertButton[] m_CurrentAlertButtons;
 
+        /// Will dialog close when you will click outside (true is default)
+        public static bool IsCanceledOnTouchOutside { get; set; } = true;
+
         public static void ShowAlert(string title, string message, params AlertButton[] buttons)
         {
             var buttonTitles = buttons.Select(x => x.Title).ToArray();
             var buttonStyles = buttons.Select(x => (int)x.Style).ToArray();
+            PluginInstance.Set<bool>("isCanceledOnTouchOutside", AndroidEasyAlerts.IsCanceledOnTouchOutside);
             PluginInstance.Call("createAlert", title, message, buttonTitles, buttonStyles);
 
             // create unique button id (same method as in .aar)
@@ -85,6 +89,8 @@ namespace Nrjwolf.Tools.AndroidEasyAlerts
 
         public static void ShowToast(string text, bool isLongDuration = false) => PluginInstance.Call("showToast", text, isLongDuration);
 #else
+        /// Will dialog close when you will click outside (true is default)
+        public static bool IsCanceledOnTouchOutside { get; set; } = true;
         public static void ShowAlert(string title, string message, params AlertButton[] buttons) { }
         public static void ShowToast(string text, bool isLongDuration = false) { }
 #endif

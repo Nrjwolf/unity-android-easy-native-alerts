@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EasyAndroidAlerts.iml" filepath="$PROJECT_DIR$/EasyAndroidAlerts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/unity/unity.iml" filepath="$PROJECT_DIR$/unity/unity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyAndroidAlerts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyAndroidAlerts.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unity/EasyAndroidAlerts.unity.iml" filepath="$PROJECT_DIR$/.idea/modules/unity/EasyAndroidAlerts.unity.iml" />
     </modules>
   </component>
 </project>

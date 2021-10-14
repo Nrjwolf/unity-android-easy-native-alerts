@@ -23,10 +23,13 @@ public class NativeAlerts {
         Log.i(PLUGIN_TAG, message);
     }
 
+    public boolean isCanceledOnTouchOutside = true;
+
     public void createAlert(String title, String message, String[] buttonTitles, int[] buttonStyles) {
         AlertDialog alertDialog = new AlertDialog.Builder(getUnityActivity()).create();
         alertDialog.setTitle(title);
         alertDialog.setMessage(message);
+        alertDialog.setCanceledOnTouchOutside(isCanceledOnTouchOutside);
 
         // Add buttons
         for (int i = 0; i < buttonTitles.length; i++) {

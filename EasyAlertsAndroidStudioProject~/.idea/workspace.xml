@@ -9,17 +9,20 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7abc38d8-417b-4278-ac35-f9fe2df505b4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="7abc38d8-417b-4278-ac35-f9fe2df505b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Plugins/EasyAndroidAlerts/Android/EasyAndroidAlerts.aar" beforeDir="false" afterPath="$PROJECT_DIR$/../Plugins/EasyAndroidAlerts/Android/EasyAndroidAlerts.aar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[CLCDU18802005129]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CLCDU18802005129" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -33,19 +36,6 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unity/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,30 +44,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>compile</find>
-      <find>com.unity3d.player</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/AndroidJavaClass.java" />
-        <option value="$PROJECT_DIR$/unity/libs/UnityPlayerActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/nrjwolf/androidtools/easyandroidalerts/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/JavaMessageHandler.java" />
-        <option value="$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/UnityBridge.java" />
-        <option value="$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/NativeAlerts.java" />
-        <option value="$PROJECT_DIR$/../../unity-android-native-alerts/EasyAndroidAlerts/unity/build.gradle" />
-        <option value="$PROJECT_DIR$/unity/build.gradle" />
-      </list>
-    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -92,45 +60,11 @@
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
+  <component name="ProjectId" id="1zUm5FUgWJjngU2f0UxOt59htRu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EasyAndroidAlerts" type="58d84e3e:PackageViewProjectNode" />
-              <item name="app" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EasyAndroidAlerts" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="EasyAndroidAlerts" type="1abcf292:AndroidViewProjectNode" />
-              <item name="unity" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="EasyAndroidAlerts" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_29" />
@@ -138,6 +72,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/unity" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1634210926427" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -155,18 +90,6 @@
       <recent name="nrjwolf.androidtools.unity" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Gradle.EasyAndroidAlerts [copyPlugin]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -176,12 +99,13 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="app" />
+      <module name="EasyAndroidAlerts.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -190,8 +114,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -219,11 +141,16 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -292,128 +219,29 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7945026" visible="true" weight="0.32967034" />
-      <window_info id="Structure" order="2" sideWeight="0.37696335" side_tool="true" weight="0.32967034" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Build Variants" order="4" sideWeight="0.20549738" side_tool="true" visible="true" weight="0.32967034" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Designer" order="6" />
-      <window_info id="Resources Explorer" order="7" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.48779" weight="0.24795918" />
-      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4993895" weight="0.32982457" />
-      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.4993895" weight="0.32982457" />
-      <window_info anchor="bottom" id="Debug" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.498779" weight="0.32982457" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.51221" side_tool="true" visible="true" weight="0.22040816" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.486569" weight="0.22040816" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" sideWeight="0.4993895" weight="0.32982457" />
-      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout>
+  <component name="WindowStateProjectService">
+    <state width="1252" height="214" key="GridCell.Tab.0.bottom" timestamp="1634212955868">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state width="1252" height="214" key="GridCell.Tab.0.bottom/0.25.1680.940@0.25.1680.940" timestamp="1634212955868" />
+    <state width="1252" height="214" key="GridCell.Tab.0.center" timestamp="1634212955868">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state width="1252" height="214" key="GridCell.Tab.0.center/0.25.1680.940@0.25.1680.940" timestamp="1634212955868" />
+    <state width="1252" height="214" key="GridCell.Tab.0.left" timestamp="1634212955867">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state width="1252" height="214" key="GridCell.Tab.0.left/0.25.1680.940@0.25.1680.940" timestamp="1634212955867" />
+    <state width="1252" height="214" key="GridCell.Tab.0.right" timestamp="1634212955868">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state width="1252" height="214" key="GridCell.Tab.0.right/0.25.1680.940@0.25.1680.940" timestamp="1634212955868" />
+    <state x="553" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1634211946272">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="553" y="222" width="670" height="676" key="search.everywhere.popup/0.25.1680.940@0.25.1680.940" timestamp="1634211946272" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EasyAndroidAlerts$_Users_nrjwolf_Documents_Work_Unity_unity_android_native_alerts_EasyAndroidAlerts_unity.ic" NAME="$PROJECT_DIR$/unity Coverage Results" MODIFIED="1588263704197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/AndroidJavaClass.java" />
-    <entry file="file://$PROJECT_DIR$/UnityPlayerActivity.java" />
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/UnityPlayerActivity.java" />
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/fff.java" />
-    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/content/DialogInterface.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nrjwolf/androidtools/easyandroidalerts/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/NativeAlerts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/JavaMessageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unity/src/main/java/nrjwolf/androidtools/unity/UnityBridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#779#1219#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../unity-android-native-alerts/EasyAndroidAlerts/unity/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../unity-android-native-alerts/EasyAndroidAlerts/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unity/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
