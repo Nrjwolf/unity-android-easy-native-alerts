@@ -23,6 +23,10 @@ public class EasyNativeAlertsExample : MonoBehaviour
         GUI.matrix = Matrix4x4.Scale(new Vector3(3.5f, 3.5f, 3.5f));
         GUILayout.Label($"Easy native alerts");
 
+        if (GUILayout.Button($"IsCanceledOnTouchOutside: {AndroidEasyAlerts.IsCanceledOnTouchOutside}"))
+        {
+            AndroidEasyAlerts.IsCanceledOnTouchOutside = !AndroidEasyAlerts.IsCanceledOnTouchOutside;
+        }
         if (GUILayout.Button("Call Alert"))
         {
             AndroidEasyAlerts.ShowAlert("Title", "Your message",
